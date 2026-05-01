@@ -38,7 +38,10 @@
 
 # Устанавливаем зависимости
     pip install -r requirements.txt
+
+# Запуск для проверки 
     
+    python User-Agent.py  
 ---
 
 ##
