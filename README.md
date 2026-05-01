@@ -198,6 +198,7 @@
 Проблема: Ошибка import requests
 
     bash
+    
     pip install requests 
 
  
