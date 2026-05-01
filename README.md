@@ -33,7 +33,7 @@
 ## ⚡ Установка
 
 # Клонируем репозиторий
-    git clone https://github.com/kensin228/smart-ua-rotator.git
+    git clone https://github.com/LondoGrafSmith/smart-ua-rotator.git
     cd smart-ua-rotator
 
 # Устанавливаем зависимости
